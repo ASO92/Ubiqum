@@ -1,0 +1,9 @@
+
+---OBJETIVO---
+Blackwell Electronics’ CTO Danielle Sherman has asked you to use data mining methods to explore the customer transaction data collected from recent online and in-store sales to infer any insights and conclusions about customer purchasing behavior, specifically:
+
+Do customers in different regions spend more per transaction? Which regions spend the most/least?
+Is there a relationship between the number of items purchased and amount spent?
+
+
+- Data: se puede redondear a 2 decimales, porque estamos hablando de dólares. Y se venden elementos electrónicos que nunca va a valer algo con 3 decimales.

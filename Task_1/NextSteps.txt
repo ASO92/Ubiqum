@@ -1,0 +1,75 @@
+----COMPLETED----
+- Acabar the POA
+
+
+----TODO----
+- Justificar eliminar datos con más de dos decimales en amount. Poner código con parámetro para eliminarlo
+- Histograma de todas las variables en subplots con titulo, y leyendas en ejes
+- Histograma amount y regions
+- Histograma de colores
+- Scater plot de todas las varibalbes en subplots con título y leyenda
+- Poner leyendas y ejes a las gráficas
+- Buscar el coef de Pearson
+- Conclusiones
+
+
+
+----FUTURE---
+- HAcer un Git y subir todo a GIT
+
+
+
+
+
+NOTAS 05/07/2021
+- Send a pdf copy of the jupiter notebook.
+- boxplot
+- scattter plots to investigate the relationship between varaibles. You will see the relationship that exists
+
+- Why distribution is needed and important -> To balance data
+
+you should think abount it. You can colour any variable.
+If we look at the amounts or the dataset. Can we just think of smaller units? Distint units in the datasate. In our data set. We have the same online/onstore
+But if we dig, in relation with regions. We have regions that do not buy online and others that do so
+In north they do not buy online. Thinking . Point it out. Why? -> Maybe in south there are no shops
+    - Dig a litter deeper with the distribution.
+    - There are some parts that are not necessarily that contribute in the same way.
+    - turnover?
+Probably i none region, where the online store is missing, maybe they are talking of all the islands of the EEUU. -> Do not consider too much the regions as fixed places. - Consider the timeframe
+- A competitor made a offer to Blackwell
+- Keep looking at the distribution. Example distribution of the amounts
+- Dont feel worry of makin mistakes.
+- Play around and ask yourself why this is this.
+- Look at the shape, whis is this like this. 
+- LOOK AT THE DISTRIBUTION. Highly recommend to do it. This is a preselection. 
+- Distribution of different varaibles. ¿Cómo se hace una distribution?
+- HEatmap but its not really adding anything.
+- Use the visualizatio to look at the data
+
+
+
+NOTAS 07/07/2021
+- Treat the outliers. Need to say , these many points are considered outliers, but I decided to keep/drop
+- Put title, index, separate the sections
+- Try to explain what Im doing. Not mention the POA, ni el curso.
+- CUIDADO CON EXPLICAR MAL Y METER CAUSATION Y CORRELATION!!!
+- FOR CORRELATION YOU SEE SCATTERPLOTS. You can see with the two varaibles. If the age grows, what happens to the amount.
+- Have a look to the scatterplots and use the correlation coefficient.
+- Its gonna be a bit of time
+- If we use the heat map.
+- Explain what we are doing. Dont get scare that our work is too simple. 
+- see outliers by regions. box plot. It is also a matter of personal test. 
+- The way to remove outliers depends on me, there is not a fixed rule to keep it or leave it.
+- Scatter plots of vertical 
+
+NOTAS 08/07/2021
+- One thing to do. In region column, check unique values. Need to make sure that there are only, 1,2,3,4. CANT be 5. Null values
+- Check all the values on the column. 
+- Introduction: talk abount the contest. Info ablut the company and the data. How many rows does it have. It does not change the quality o my work but it give me the habit to do it. Just do it. 
+- Outliers in step 3. 
+- Look each single column. 
+- We need to be supported by tools to say. Not make a statement, based on the sample. We are just at the beginning. The way you are expressing it may sound not correct.
+
+
+
+

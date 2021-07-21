@@ -1,0 +1,19 @@
+Investigating customer buying patterns
+Hello,
+
+As CTO and head of Blackwell's eCommerce Team, I'd like to welcome you aboard. I'm excited to get started on this project, but I'd first like to give you a bit of background to get you up to speed. Blackwell has been a successful electronics retailer for over three decades, with over numerous stores in various locations. A little over a year ago we launched our eCommerce website. We are starting to build up customer transaction data from the site and we want to leverage this data to inform our decisions about site-related activities, like online marketing, enhancements to the site and so on, in order to continue to maximize the amount of revenue we generate from eCommerce sales.
+
+To that end, I would like you to explore the customer transaction data we have collected from recent online and in-store sales and see if you can infer any insights about customer purchasing behavior. Specifically, I am interested in the following:
+
+Do customers in different regions spend more per transaction? Which regions spend the most/least?
+Is there a relationship between number of items purchased and amount spent?
+To investigate this, I’d like you to use data mining methods to explore the data, look for patterns in the data and draw conclusions. I have attached a data file of customer transactions; it includes some information about the customer who made the transaction, as well as the amount of the transaction, and how many items were purchased. Once you have completed your analysis, please create a brief report of your findings and conclusions and an explanation of how you arrived at those conclusions so I can discuss them with Martin.
+
+Thanks,
+Danielle
+ 
+Danielle Sherman
+Chief Technology Officer
+Blackwell Electronics
+www.blackwellelectronics.com
+Attachments

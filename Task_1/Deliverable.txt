@@ -1,0 +1,5 @@
+Customer Buying Patterns Report. A zip file that includes:
+
+A 1-2 page Word or PowerPoint document in which you:
+Summarize your findings and conclusions regarding the questions posed about customer purchasing behavior
+A narrative explaining the results of each algorithm you used, but the technical output is not needed in the report itself. Please only include it in a separate file so the mentors may review your work.

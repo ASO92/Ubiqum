@@ -1,0 +1,8 @@
+Task 2 is to step 05. Its the most interesting.
+- Deliverable a well structured 
+- Need to clean the data to have a model.
+- 1A ya se puede contestarm sí que hay diferencia entre las edades de regiones. 1B the dependent variable is age
+1B If the dependant variable is age, se puede predecir con otras variables? Otras Demographic data? 
+Look again at the POA and try to come back 
+
+in-store, amount, region, age, items
